@@ -1,7 +1,7 @@
 /******************************************************************************
 Chapter2 - Input,Processing and Output
-Ex1 - Create a program that prompts for an input string and displays output that s
-hows the input string and the number of characters the string contains.
+Ex1 - Create a program that prompts for an input string and displays output that 
+shows the input string and the number of characters the string contains.
 Author: Aryan Irani(aryanirani123@gmail.com)
 *******************************************************************************/
 
