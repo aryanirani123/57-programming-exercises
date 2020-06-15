@@ -1,6 +1,6 @@
 /******************************************************************************
 Chapter3 - Calculations 
-Ex10 - Write a program that converts currency. Specifically, convert euros to  U.S. dollars. 
+Ex11 - Write a program that converts currency. Specifically, convert euros to  U.S. dollars. 
 Prompt for the amount of money in euros you have, and prompt for the current exchange 
 rate of the euro. Print out the new amount in U.S. dollars.
 Author: Aryan Irani(aryanirani123@gmail.com)
