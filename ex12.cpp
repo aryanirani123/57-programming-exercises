@@ -10,7 +10,7 @@ using namespace std;
 
 int main(){
     
-    float principal, rate, time_period, interest, amount;
+    float principle, rate, time_period, interest, amount;
     
     cout << "Enter the principal: ";
     cin >> principal;
@@ -21,8 +21,8 @@ int main(){
     cout << "Enter the number of years: ";
     cin >> time_period;
     
-    interest = principal * rate * time_period/100;
-    amount = principal * (1 + rate * time_period/100);
+    interest = principle * rate * time_period/100;
+    amount = principle * (1 + rate * time_period/100);
     
     cout << "After " << time_period << " years " << rate << "%, the investment will be worth $" << amount;
     
